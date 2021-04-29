@@ -1,0 +1,46 @@
+1
+a
+All the rest have thirty-one1,
+All the rest have thirty-one2,
+.
++1
+i
+Thirty days hath September,
+April, June, and November;
+.
++1
+a
+dssfdfs,
+dfawwwew,
+.
++1
+i
+wertty,
+.
++1
+c
+delete this current line
+qqqqqqq
+wwwww
+.
+5
+d
+/time/
+-2
+a
+zibi
+smibi
+.
+6
+s/days hath/halan wsalan halan bikon/
+4
++1
+j
+w tal.txt
++2
+a
+xxxxxxx
+yyyyy
+.
+w tal.txt
+q
